@@ -1,13 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://Somashree-7205.io)
 <h1 align="center">Hi 👋, I'm Somashree Sahoo</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somashree-7205&label=Profile%20views&color=0e75b6&style=flat" alt="somashree-7205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somashree-7205" alt="somashree-7205" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/somashree soman" target="blank"><img src="https://img.shields.io/twitter/follow/somashree soman?logo=twitter&style=for-the-badge" alt="somashree soman" /></a> </p>
 
 - 🔭 I’m currently working on **machine learning unsupervised model**
 
@@ -37,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somashree-7205&show_icons=true&locale=en" alt="somashree-7205" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somashree-7205&" alt="somashree-7205" /></p>
-
