@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **any machine learning project**
+- 👯 I’m looking to collaborate on **any machine learning projects**
 
-- 💬 Ask me about **MySQL, Python, Matplotlib, Machine Learning**
+- 💬 Ask me about **MySQL, Python, Matplotlib, Machine Learning, Tableau, PowerBI**
 
 - 📫 How to reach me **somansahoo7205@gmail.com**
 
