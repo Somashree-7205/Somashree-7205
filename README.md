@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any machine learning projects**
 
-- 💬 Ask me about **MySQL, Python, Matplotlib, Machine Learning, Tableau, PowerBI**
+- 💬 Ask me about **MySQL, Python, Matplotlib, Machine Learning, Tableau, PowerBI, Deep Learning**
 
 - 📫 How to reach me **somansahoo7205@gmail.com**
 
