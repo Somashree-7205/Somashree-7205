@@ -1,10 +1,10 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://Somashree-7205.io)
 <h1 align="center">Hi 👋, I'm Soman</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate AI ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somashree-7205&label=Profile%20views&color=0e75b6&style=flat" alt="somashree-7205" /> </p>
 
-- 🔭 I’m currently working on **machine learning unsupervised model**
+- 🔭 I’m currently working on **Machine learning, Deep Learning models**
 
 - 🌱 I’m currently learning **Data Science**
 
